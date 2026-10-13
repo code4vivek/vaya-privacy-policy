@@ -105,8 +105,8 @@ The latest version will be published at this URL. Material changes will be refle
 
 If you have questions about this Privacy Policy or Vaya's privacy practices, contact:
 
-**Developer:** [Your developer name or business name]  
-**Email:** [Your support email address]
+**Developer:** Vivek Yadav
+**Email:** connectxvivek@gmail.com
 
 Please use the contact details above for privacy-related questions and support requests.
 
